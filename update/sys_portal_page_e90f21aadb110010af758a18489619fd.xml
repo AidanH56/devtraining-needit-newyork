@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-12-05 21:14:05">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-26 16:46:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e90f21aadb110010af758a18489619fd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Business Rules</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_e90f21aadb110010af758a18489619fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-26 16:49:55</sys_updated_on>
+        <title>PA Business Rules</title>
+        <user/>
+        <view>pa_new_tab_2_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Business Rules">e90f21aadb110010af758a18489619fd</page>
+                <summary>Global</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-11-26 16:49:33</sys_created_on>
+                <sys_id>adaf61aadb110010af758a1848961908</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-11-26 16:49:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-11-26 08:49:33">adaf61aadb110010af758a1848961908</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-11-26 16:49:33</sys_created_on>
+                        <sys_id>21af61aadb110010af758a1848961909</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-11-26 16:49:33</sys_updated_on>
+                        <value>346019cd7f00000101de61eb803d1d01</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>view</name>
+                        <portal_section display_value="Created 2019-11-26 08:49:33">adaf61aadb110010af758a1848961908</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-11-26 16:49:33</sys_created_on>
+                        <sys_id>29af61aadb110010af758a1848961909</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-11-26 16:49:33</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-11-26 08:49:33">adaf61aadb110010af758a1848961908</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-11-26 16:49:33</sys_created_on>
+                        <sys_id>65af61aadb110010af758a1848961909</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-11-26 16:49:33</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderFilters</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-11-26 08:49:33">adaf61aadb110010af758a1848961908</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-11-26 16:49:33</sys_created_on>
+                        <sys_id>e9af61aadb110010af758a1848961909</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-11-26 16:49:33</sys_updated_on>
+                        <value>Global</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
